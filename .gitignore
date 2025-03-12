@@ -27,6 +27,7 @@ src-tauri/.cargo/
 **/*.pdb
 Cargo.lock
 target
+.next/
 
 # Memory files (now stored in user's home directory)
 # ~/.conduit/memories/
@@ -58,3 +59,4 @@ coverage/
 # Temporary files
 .tmp/
 .temp/
+conduit.iml
