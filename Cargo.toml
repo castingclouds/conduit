@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "src-tauri",
+    "conduit-backend"
+]
+resolver = "2"
